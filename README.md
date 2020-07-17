@@ -1,8 +1,6 @@
-# Web Crawler JAVA
+# Trip Planner
 
 Plan & manage vacation itinerary. The idea of this project was to use the micro-service architecture, the backend is developed in PHP using micro-framework called Lumen and Larvel.
-
-![Web Crawler](https://github.com/enokryeziu/java-web-crawler/blob/master/web-crawler.png)
 
 
 ## Screenshots
